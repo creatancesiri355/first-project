@@ -1,2 +1,3 @@
 # first-project
-author- khushi pandey
+author- khushi pandey BCA Grduate
+
