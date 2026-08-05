@@ -1,2 +1,3 @@
 # first-project
-author- khushi
+author- khushi pandey
+
